@@ -9,6 +9,7 @@ project(camera_filtering)
 ## is used, also find other catkin packages
 find_package(PCL 1.8.0 REQUIRED PATHS ${PCL_FOLDER} NO_DEFAULT_PATH)
 
+blabla bla
 find_package(catkin REQUIRED COMPONENTS
   pcl_msgs
   pcl_ros
