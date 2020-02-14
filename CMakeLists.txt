@@ -7,7 +7,7 @@ project(camera_filtering)
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
-find_package(PCL 1.8.0 REQUIRED PATHS ${PCL_FOLDER} HOLA)
+find_package(PCL 1.8.0 REQUIRED PATHS ${PCL_FOLDER} hey)
 
 blabla bla
 find_package(catkin REQUIRED COMPONENTS
