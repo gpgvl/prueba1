@@ -16,7 +16,7 @@ find_package(catkin REQUIRED COMPONENTS
   roscpp
   sensor_msgs
   tf
-  pcl_conversions
+  pcl_conversion
   image_transport
   cv_bridge
 )
